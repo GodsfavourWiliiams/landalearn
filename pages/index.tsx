@@ -1,4 +1,4 @@
-import View from "../views/home";
+import View from "../views/Home";
 
 export default function Index() {
   return (
