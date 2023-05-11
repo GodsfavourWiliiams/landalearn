@@ -11,7 +11,7 @@ const Index = ({ children }: Props) => {
   return (
     <>
       <Sidebar />
-      <main className=" relative">
+      <main className="relative">
         <Navbar />
         <div className="p-4 md:px-10 w-full ml-0 md:ml-[270px]">
           {children}
