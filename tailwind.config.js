@@ -14,7 +14,7 @@ module.exports = {
       },
       keyframes: {
         'fade-out': {
-          from: { width: '1000px' },
+          from: { width: '896px' },
           to: { width: '100%' },
         },
         'fade-in': {
